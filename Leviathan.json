@@ -4,5 +4,96 @@
   "artist": "https://twitter.com/koug99",
   "author": "El Director",
   "cover": "https://i.imgur.com/M7k6CyS.jpg",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Book 1- Christmas Eve",
+      "volume": "",
+      "last_updated": "1652668975",
+      "groups": {
+        "": [
+          "https://imgur.com/a/6wWXQLr"
+        ]
+      }
+    },
+    "2": {
+      "title": "Book2- Garnet and Lapis",
+      "volume": "",
+      "last_updated": "1652669036",
+      "groups": {
+        "": [
+          "https://imgur.com/a/cZCywoL"
+        ]
+      }
+    },
+    "3": {
+      "title": "Book3- The gallery",
+      "volume": "",
+      "last_updated": "1652669072",
+      "groups": {
+        "": [
+          "https://imgur.com/a/E6qlOyv"
+        ]
+      }
+    },
+    "4": {
+      "title": "Book4- A docent",
+      "volume": "",
+      "last_updated": "1652669102",
+      "groups": {
+        "": [
+          "https://imgur.com/a/V1CfT4y"
+        ]
+      }
+    },
+    "5": {
+      "title": "Book5- Video",
+      "volume": "",
+      "last_updated": "1652669125",
+      "groups": {
+        "": [
+          "https://imgur.com/a/eaWb2KG"
+        ]
+      }
+    },
+    "6": {
+      "title": "Book6- Flow",
+      "volume": "",
+      "last_updated": "1652669147",
+      "groups": {
+        "": [
+          "https://imgur.com/a/hEIk0qs"
+        ]
+      }
+    },
+    "7": {
+      "title": "Book7- Ingress",
+      "volume": "",
+      "last_updated": "1652669261",
+      "groups": {
+        "": [
+          "https://imgur.com/a/jtSjevv"
+        ]
+      }
+    },
+    "8": {
+      "title": "Book8- Ecstasies ",
+      "volume": "",
+      "last_updated": "1652669281",
+      "groups": {
+        "": [
+          "https://imgur.com/a/zZZTmBU"
+        ]
+      }
+    },
+    "9": {
+      "title": "Book9- Eye opening",
+      "volume": "",
+      "last_updated": "1652669302",
+      "groups": {
+        "": [
+          "https://imgur.com/a/4qwpsbo"
+        ]
+      }
+    }
+  }
 }
