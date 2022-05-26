@@ -14,7 +14,7 @@
       }
     },
     "2": {
-      "title": "Book2- Garnet and Lapis",
+      "title": "Book 2- Garnet and Lapis",
       "volume": "",
       "last_updated": "1652669036",
       "groups": {
@@ -22,7 +22,7 @@
       }
     },
     "3": {
-      "title": "Book3- The gallery",
+      "title": "Book 3- The gallery",
       "volume": "",
       "last_updated": "1652669072",
       "groups": {
@@ -30,7 +30,7 @@
       }
     },
     "4": {
-      "title": "Book4- A docent",
+      "title": "Book 4- A docent",
       "volume": "",
       "last_updated": "1652669102",
       "groups": {
@@ -38,7 +38,7 @@
       }
     },
     "5": {
-      "title": "Book5- Video",
+      "title": "Book 5- Video",
       "volume": "",
       "last_updated": "1652669125",
       "groups": {
@@ -46,7 +46,7 @@
       }
     },
     "6": {
-      "title": "Book6- Flow",
+      "title": "Book 6- Flow",
       "volume": "",
       "last_updated": "1652669147",
       "groups": {
@@ -54,7 +54,7 @@
       }
     },
     "7": {
-      "title": "Book7- Ingress",
+      "title": "Book 7- Ingress",
       "volume": "",
       "last_updated": "1652669261",
       "groups": {
@@ -62,7 +62,7 @@
       }
     },
     "8": {
-      "title": "Book8- Ecstasies ",
+      "title": "Book 8- Ecstasies ",
       "volume": "",
       "last_updated": "1652669281",
       "groups": {
@@ -70,11 +70,19 @@
       }
     },
     "9": {
-      "title": "Book9- Eye opening",
+      "title": "Book 9- Eye opening",
       "volume": "",
       "last_updated": "1652669302",
       "groups": {
         "": "/proxy/api/imgur/chapter/4qwpsbo"
+      }
+    },
+    "10": {
+      "title": "Book 10- Resection",
+      "volume": "",
+      "last_updated": "1653564944",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/xsIBqtH"
       }
     }
   }
